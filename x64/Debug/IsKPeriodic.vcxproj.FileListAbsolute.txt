@@ -1,0 +1,2 @@
+C:\Users\Максим\source\repos\IsKPeriodic\x64\Debug\IsKPeriodic.exe
+C:\HokkonenEi\IsKPeriodic-main\x64\Debug\IsKPeriodic.exe

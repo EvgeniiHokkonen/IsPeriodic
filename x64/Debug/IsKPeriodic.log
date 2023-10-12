@@ -1,0 +1,5 @@
+﻿  Function.cpp
+C:\HokkonenEi\IsKPeriodic-main\Function.cpp(5,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  Создание кода...
+  IsKPeriodic.vcxproj -> C:\HokkonenEi\IsKPeriodic-main\x64\Debug\IsKPeriodic.exe
